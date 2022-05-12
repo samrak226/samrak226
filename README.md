@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samrak226
 - 👀 I’m interested in Javascript development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on 
 - 📫 Email me on samrak226@gmail.com and my linkedin id is https://www.linkedin.com/in/samrak226/
 
 <!---
